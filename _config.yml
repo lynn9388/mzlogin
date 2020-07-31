@@ -5,7 +5,7 @@ remote_theme: mzlogin/mzlogin.github.io
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://lynn9388.github.io/mzlogin
 date_format: "ordinal"
 title: 码志
 subtitle: "公众号：闷骚的程序员"
